@@ -10,7 +10,7 @@
 
 *IT Professional*
 
-[![GITHUB](https://img.shields.io/badge/GITHUB-%40christian-cs11-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/christian-cs11) [![EMAIL](https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:christian.cs0208@gmail.com)
+[![GITHUB](https://img.shields.io/badge/GITHUB-%40christian-cs11-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/christian-cs11) [![EMAIL](https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:christian.cs0208@gmail.com) [![RESUME](https://img.shields.io/badge/RESUME-VIEW-0969da?style=for-the-badge&logo=googledrive&logoColor=white)](https://docs.google.com/document/d/e/2PACX-1vSUcSMtMQe_7Kkk1A2pX8dGxppf4A0TGBapDCsMS8np_Mc_q-L4jBZY5m-gffk4vg/pub)
 
 </div>
 
